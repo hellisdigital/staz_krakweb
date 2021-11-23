@@ -1,4 +1,4 @@
 # staz_krakweb
-Kilka Sekcji Stron internetowych HTML + CSS
+Pierwsza część sekcji stron podsumowywujących staż w firmie krakweb
 
 https://pudol.github.io/staz_krakweb/
